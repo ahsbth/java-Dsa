@@ -68,8 +68,7 @@ import java.util.Scanner;
                  break;
         case 3:a.disp();
                  break;
- 
-       default:break;
+       default:System.exit(0);
       } 
     } 
     }
